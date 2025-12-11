@@ -65,13 +65,7 @@ Rectool is an automated tool that combines **AI**, **payload mutation**, and **a
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeromeMina191&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeromeMina191&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 ---
 
 ## 🔗 Connect With Me
